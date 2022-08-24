@@ -42,7 +42,7 @@ while True:
 
             print(f"\nYou should give {usermoney - price} to he/she.\n----------")
             with open("history.txt", "w") as f:
-                f.write(f"Someone bought {itemname} for {price} at {datetime.now()}\n")
+                f.writelines(f"Someone bought {itemname} for {price} at {datetime.now()}\n")
             input("Press key to continue.")
         else:
             print("\nInvalid Item Data. Please check All items.\n")
