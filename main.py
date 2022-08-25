@@ -18,7 +18,7 @@ Prices = {
 while True:
 
     Money = open("MoneyHistory.txt", "r")
-
+    #For clear the console.
     os.system("cls")
 
     option = input("-----DeHook Shopping Tools-----\nWhat you want to do?\n1 - Check Price\n2 - Sell Item\n3 - Check all items with prices.\n4 - Check History\n5 - Show Money History That You Earned\n----------\n>>")
