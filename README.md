@@ -5,9 +5,12 @@
 A simple Python application that helps you to operate your shop.
 
 ## Functions
+
+![image](https://user-images.githubusercontent.com/83973611/186637261-11c31f5b-f1ae-444d-bba9-ab6adabfb78d.png)
+
 - [x] Allows you to Add or Remove items.
 - [x] Have an History file to check when someone buy something (sorry for bad English xd)
-- [ ] Allow to see how much money you make. (Maybe you can check it from history.txt but i'll add this function to make things easy.)
+- [X] Allow to see how much money you make.
 - [ ] Allow you to operate items from txt file.
 
 Please don't forget to write your suggestions for more features!
